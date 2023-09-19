@@ -1,0 +1,154 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "targetSum",
+            "request": "launch",
+            "mainClass": "targetSum",
+            "projectName": "JAVA_4e356704"
+        },
+        {
+            "type": "java",
+            "name": "checkSorted",
+            "request": "launch",
+            "mainClass": "checkSorted",
+            "projectName": "JAVA_4e356704"
+        },
+        {
+            "type": "java",
+            "name": "noOfOccurance",
+            "request": "launch",
+            "mainClass": "noOfOccurance",
+            "projectName": "JAVA_4e356704"
+        },
+        {
+            "type": "java",
+            "name": "LastOccurance",
+            "request": "launch",
+            "mainClass": "LastOccurance",
+            "projectName": "JAVA_4e356704"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "JAVA_4e356704"
+        },
+        {
+            "type": "java",
+            "name": "cross",
+            "request": "launch",
+            "mainClass": "cross",
+            "projectName": "JAVA_4e356704"
+        },
+        {
+            "type": "java",
+            "name": "diamond",
+            "request": "launch",
+            "mainClass": "diamond",
+            "projectName": "JAVA_4e356704"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "JAVA_4e356704"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci",
+            "request": "launch",
+            "mainClass": "fibonacci",
+            "projectName": "JAVA_4e356704"
+        },
+        {
+            "type": "java",
+            "name": "largestEl",
+            "request": "launch",
+            "mainClass": "largestEl",
+            "projectName": "JAVA_4e356704"
+        },
+        {
+            "type": "java",
+            "name": "linearSearch",
+            "request": "launch",
+            "mainClass": "linearSearch",
+            "projectName": "JAVA_4e356704"
+        },
+        {
+            "type": "java",
+            "name": "maxSubArraySum",
+            "request": "launch",
+            "mainClass": "maxSubArraySum",
+            "projectName": "JAVA_4e356704"
+        },
+        {
+            "type": "java",
+            "name": "occurance",
+            "request": "launch",
+            "mainClass": "occurance",
+            "projectName": "JAVA_4e356704"
+        },
+        {
+            "type": "java",
+            "name": "pair",
+            "request": "launch",
+            "mainClass": "pair",
+            "projectName": "JAVA_4e356704"
+        },
+        {
+            "type": "java",
+            "name": "palindrome",
+            "request": "launch",
+            "mainClass": "palindrome",
+            "projectName": "JAVA_4e356704"
+        },
+        {
+            "type": "java",
+            "name": "pattern",
+            "request": "launch",
+            "mainClass": "pattern",
+            "projectName": "JAVA_4e356704"
+        },
+        {
+            "type": "java",
+            "name": "prime",
+            "request": "launch",
+            "mainClass": "prime",
+            "projectName": "JAVA_4e356704"
+        },
+        {
+            "type": "java",
+            "name": "reverse",
+            "request": "launch",
+            "mainClass": "reverse",
+            "projectName": "JAVA_4e356704"
+        },
+        {
+            "type": "java",
+            "name": "square",
+            "request": "launch",
+            "mainClass": "square",
+            "projectName": "JAVA_4e356704"
+        },
+        {
+            "type": "java",
+            "name": "subArray",
+            "request": "launch",
+            "mainClass": "subArray",
+            "projectName": "JAVA_4e356704"
+        }
+    ]
+}
