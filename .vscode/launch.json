@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PascalTriangle",
+            "request": "launch",
+            "mainClass": "PascalTriangle",
+            "projectName": "JAVA_4e356704"
+        },
+        {
+            "type": "java",
+            "name": "rotateK",
+            "request": "launch",
+            "mainClass": "rotateK",
+            "projectName": "JAVA_4e356704"
+        },
+        {
+            "type": "java",
             "name": "targetSum",
             "request": "launch",
             "mainClass": "targetSum",
